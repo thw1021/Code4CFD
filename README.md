@@ -27,8 +27,9 @@
 ### Blogs
 
 - [The Visual Room](http://www.thevisualroom.com/index.html)
-- [All About CFD](https://cfdisrael.blog/)
+- [All About CFD](https://cfdisraelblog.wordpress.com/)
 - [A complete path to learn CFD](https://www.jahid-hasan.com/writings/a-complete-learning-path-for-cfd/)
+- [CFD WITH A MISSION](https://caefn.com/)
 
 ### Researchers
 
