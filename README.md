@@ -99,6 +99,7 @@
 - [lbmpy](https://i10git.cs.fau.de/pycodegen/lbmpy/): Run fast fluid simulations based on the lattice Boltzmann method in Python on CPUs and GPUs
 - [OpenLB](https://www.openlb.net/): The OpenLB project provides a C++ package for the implementation of lattice Boltzmann methods that is general enough to address a vast range of tansport problems
 - [TCLB](https://github.com/CFD-GO/TCLB): Templated MPI+CUDA/CPU Lattice Boltzmann code
+- [hemelb](https://github.com/hemelb-codes/hemelb): A high performance parallel lattice-Boltzmann code for large scale fluid flow in complex geometries
 
 #### Immersed Boundary Methods (IBM)
 - [FluSI & Wabbit](http://aifit.cfd.tu-berlin.de/wordpress/?page_id=42): Aerodynamics of Insect Flight and Turbulent Flow
