@@ -117,6 +117,7 @@
 - [exapde/Exasim](https://github.com/exapde/Exasim): Generating Discontinuous Galerkin Codes For Extreme Scalable Simulations
 - [flexi-framework/flexi](https://github.com/flexi-framework/flexi): Open Source High-Order Unstructured Discontinuous Galerkin Fluid Dynamics Solver
 - [Trixi.jl](https://github.com/trixi-framework/Trixi.jl): Adaptive high-order numerical simulations of hyperbolic PDEs in Julia
+- [ChiDG](https://github.com/nwukie/ChiDG): A Chimera-based, discontinuous Galerkin solver
 
 #### Other techniques
 
