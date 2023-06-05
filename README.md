@@ -36,6 +36,7 @@
 - [Prof. Lars Davidsson](http://www.tfd.chalmers.se/~lada/)
 - [Prof. Sandip Mazumder](https://www.youtube.com/@sandipmazumder171)
 - [Prof. Steven L. Brunton](https://www.eigensteve.com/people)
+- [Prof. Michael Zingale](https://zingale.github.io/)
 
 ## 2. Computational fluid dynamics (CFD)
 
