@@ -207,6 +207,7 @@ software for fast, friendly, flexible, data-driven, ocean-flavored fluid dynamic
 - [mathLab/pi-BEM](https://github.com/mathLab/pi-BEM): Parallel Boundary Element Method solver
 - [JULES](https://jules.jchmr.org/)
 - [NGA2](https://github.com/jessecaps/NGA2): Object-oriented multi-mesh version of the classic reacting turbulent multiphase flow solver.
+- [PhasicFlow/phasicFlow](https://github.com/PhasicFlow/phasicFlow): Parallel, highly efficient code (CPU and GPU) for DEM and CFD-DEM simulations.
 
 #### OpenFOAM Related
 - [lesituu](https://bitbucket.org/lesituu/): Some libraries (wall model) for OpenFOAM
