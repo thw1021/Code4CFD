@@ -15,6 +15,7 @@
 - [An Introduction to Statistical Learning](https://www.statlearning.com/online-course): A free online companion course to the Second Edition of An Introduction to Statistical Learning.
 - [CS106B](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1184/lectures.shtml): Programming Abstractions course.
 - [Programming in C/C++ Efficiently](https://github.com/ShiqiYu/CPP): Course 'CS205 C/C++ Program Design' in 2021 Fall at Southern University of Science and Technology.
+- [CS598, Spring 2016](https://wgropp.cs.illinois.edu/courses/index.html): Designing and Building Applications for Extreme Scale Systems.
 
 ### Books
 
